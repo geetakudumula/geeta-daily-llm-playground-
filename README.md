@@ -1,11 +1,4 @@
 # 💬 Real-time Sentiment Analyzer (Streamlit + Hugging Face)
-
-A real-time, interactive sentiment analysis web app built using **Streamlit** and **Hugging Face Transformers**. This app allows users to enter custom sentences and instantly get back a prediction of the sentence's **sentiment** — either **POSITIVE** or **NEGATIVE** — along with a confidence score.
-
-> ⚡ Powered by `distilbert-base-uncased-finetuned-sst-2-english`  
-> 👩‍💻 Created by **Geeta Kudumula**, Technical AI/ML Architect
-
-# 💬 Real-time Sentiment Analyzer
 _Instantly detect the tone of any sentence using AI-powered Transformers_
 
 ---
