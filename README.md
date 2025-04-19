@@ -32,3 +32,17 @@ Try typing in:
    ```bash
    git clone https://github.com/geetakudumula/realtime-sentiment-analyzer-streamlit.git
    cd realtime-sentiment-analyzer-streamlit
+---
+✨ Features
+🧾 User-friendly input box to type custom sentences
+
+📊 Real-time inference with sentiment & confidence display
+
+🧠 Hugging Face-powered Transformer under the hood
+
+🕵️‍♀️ Analysis history with live emoji-based feedback
+
+👩‍🎨 Personalized UI ("by Geeta Kudumula")
+
+
+---
