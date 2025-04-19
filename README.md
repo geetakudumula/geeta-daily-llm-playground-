@@ -9,7 +9,7 @@ A real-time, interactive sentiment analysis web app built using **Streamlit** an
 
 ## 🚀 Demo
 
-![Demo Screenshot](./[screenshot.png](https://github.com/geetakudumula/geeta-daily-llm-playground-/blob/main/DemoScreenshot.png))
+![Demo Screenshot](https://github.com/geetakudumula/geeta-daily-llm-playground-/blob/main/DemoScreenshot.png?raw=true)
 
 Try typing in:
 - `The service was excellent and fast!`
