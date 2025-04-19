@@ -33,7 +33,7 @@ Try typing in:
    git clone https://github.com/geetakudumula/realtime-sentiment-analyzer-streamlit.git
    cd realtime-sentiment-analyzer-streamlit
 ---
-✨ Features
+##✨ Features
 🧾 User-friendly input box to type custom sentences
 
 📊 Real-time inference with sentiment & confidence display
@@ -44,5 +44,21 @@ Try typing in:
 
 👩‍🎨 Personalized UI ("by Geeta Kudumula")
 
-
 ---
+📚 Example
+yaml
+Copy
+Edit
+Sentence: "This feature is terrible and slow."
+→ Sentiment: NEGATIVE
+→ Confidence: 1.00
+📌 Author
+Built with ❤️ by Geeta Kudumula
+🎓 Technical AI/ML Architect | Streaming Expert | Cloud Practitioner
+🔗 LinkedIn Profile
+🧠 My Hugging Face Page
+
+🌐 License
+This project is open-source under the MIT License.
+
+
